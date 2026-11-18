@@ -114,6 +114,12 @@ Para revisar los cuadernos, abrirlos en VS Code o Jupyter en este orden:
 
 ---
 
+## Fuente
+
+Dataset de Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
+
 ## Autor
 
-Jose Ayala Farell
+Jose Antonio Ayala Farell

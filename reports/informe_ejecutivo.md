@@ -145,3 +145,15 @@ IMPACTO │
 #### Iniciativa 4: Programa de Fidelización y Recompra
 - **Problema**: 97% de compradores únicos que no regresan.
 - **Acción**: Segmentar a los clientes con calificación de 5 estrellas en categorías de reposición periódica (*belleza, cuidado personal, papelería*) y automatizar correos con descuentos a los 60 y 90 días de la compra.
+
+---
+
+### Fuente de los Datos
+- **Dataset oficial de Kaggle**: *Brazilian E-Commerce Public Dataset by Olist*  
+  URL: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
+
+### Autor
+- **Jose Antonio Ayala Farell**  
+  Proyecto Final - Máster en Data Analytics
